@@ -1,0 +1,17 @@
+{
+  "name": "Elijah Manor",
+  "priorities" : [
+    "Christian", "Family", "Work"
+  ],
+  "work" : [
+    "@LeanKit", "@PluralSight"
+  ],
+  "tech" : [
+    "HTML", "CSS", "JavaScript",
+    "React", "jQuery"
+  ],
+  "titles" : [
+    "Microsoft MVP",
+    "IE userAgent"
+  ]
+}

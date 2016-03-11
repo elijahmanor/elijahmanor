@@ -7,7 +7,7 @@
   },
   "main": "index.js",
   "scripts": {
-    "postinstall": "cat me.json"
+    "postinstall": "cat me.json; say 'Elijah Manor says Hello'"
   },
   "repository": {
     "type": "git",

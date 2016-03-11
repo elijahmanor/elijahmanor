@@ -6,6 +6,7 @@
   "work" : [
     "@LeanKit", "@PluralSight"
   ],
+  "twitter": "@elijahmanor",
   "tech" : [
     "HTML", "CSS", "JavaScript",
     "React", "jQuery"

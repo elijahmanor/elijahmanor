@@ -4,7 +4,7 @@
     "Christian", "Family", "Work"
   ],
   "work" : [
-    "@LeanKit", "@PluralSight"
+    "@leankit", "@eggheadio", "@pluralsight"
   ],
   "twitter": "@elijahmanor",
   "tech" : [
@@ -12,7 +12,6 @@
     "React", "jQuery"
   ],
   "titles" : [
-    "Microsoft MVP",
-    "IE userAgent"
+    "Microsoft MVP"
   ]
 }

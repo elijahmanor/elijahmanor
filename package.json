@@ -7,7 +7,7 @@
   },
   "main": "index.js",
   "bin": {
-    "elijahmanor": "./index.js"
+    "elijahmanor": "node ./index.js"
   },
   "scripts": {
     "postinstall": "node ./index.js"

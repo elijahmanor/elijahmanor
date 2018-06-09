@@ -7,10 +7,10 @@
   },
   "main": "index.js",
   "bin": {
-    "elijahmanor": "index.js"
+    "elijahmanor": "./index.js"
   },
   "scripts": {
-    "postinstall": "node index.js"
+    "postinstall": "node ./index.js"
   },
   "repository": {
     "type": "git",

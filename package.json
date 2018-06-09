@@ -21,5 +21,8 @@
     "contact"
   ],
   "author": "Elijah Manor",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "lolcatjs": "^2.3.1"
+  }
 }

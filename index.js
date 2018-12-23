@@ -2,7 +2,6 @@
 
 const chalk = require("chalk");
 const boxen = require("boxen");
-
 const options = {
 	padding: 1,
 	margin: 1,

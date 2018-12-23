@@ -1,1 +1,3 @@
-Information about Elijah Manor
+# Elijah Manor's Business Card
+
+$ npx elijahmanor

@@ -1,6 +1,6 @@
 {
   "name": "elijahmanor",
-  "version": "1.3.4",
+  "version": "1.4.0",
   "description": "Contact Information about Elijah Manor",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"

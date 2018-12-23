@@ -21,5 +21,9 @@
     "contact"
   ],
   "author": "Elijah Manor",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "boxen": "^2.1.0",
+    "chalk": "^2.4.1"
+  }
 }

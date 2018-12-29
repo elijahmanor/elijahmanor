@@ -1,6 +1,6 @@
 {
   "name": "elijahmanor",
-  "version": "1.7.0",
+  "version": "1.8.1",
   "description": "Contact Information about Elijah Manor",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
@@ -9,8 +9,12 @@
   "bin": {
     "elijahmanor": "./index.js"
   },
+  "files": [
+    "bin/output"
+  ],
   "scripts": {
-    "postinstall": "node ./index.js"
+    "postinstall": "node ./index.js",
+    "build": "node ./build.js"
   },
   "repository": {
     "type": "git",
@@ -22,7 +26,8 @@
   ],
   "author": "Elijah Manor",
   "license": "MIT",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "boxen": "^2.1.0",
     "chalk": "^2.4.1"
   }

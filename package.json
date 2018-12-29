@@ -14,7 +14,6 @@
   ],
   "scripts": {
     "postinstall": "node ./index.js",
-    "prepublish": "npm run build",
     "build": "node ./build.js"
   },
   "repository": {

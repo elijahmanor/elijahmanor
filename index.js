@@ -8,6 +8,8 @@ const options = {
   borderStyle: "round",
   borderColor: "green"
 };
+const fs = require("fs");
+const path = require("path");
 
 let output = `
       ${chalk.yellow.bold('╔═╗┬  ┬ ┬┌─┐┬ ┬  ╔╦╗┌─┐┌┐┌┌─┐┬─┐')}
@@ -25,5 +27,7 @@ let output = `
                       ${chalk.yellow("elijahmanor")}@${chalk.blue("gmail")}.com
                 $ npx ${chalk.yellow("elijahmanor")}`;
 
-const [firstLine, ...trimmed] = output.split('\n');
-console.log(chalk.white(boxen(trimmed.join('\n'), options)));
+const [, ...trimmed] = output.split('\n');
+const card = chalk.white(boxen(trimmed.join('\n'), options));
+fs.writeFileSync(path.join(__dirname, 'bin/output'), card); 
+console.log(card);

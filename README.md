@@ -4,6 +4,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Locale Aware Sorting in JavaScript](https://elijahmanor.com/byte/js-locale-sort)
+- [Time Tracking with Watson and Tmux](https://elijahmanor.com/blog/watson-tmux)
+- [Update Node Dependencies Automatically, Selectively, or Incrementally](https://elijahmanor.com/byte/update-node-deps)
+- [Adding Tailwind CSS IntelliSense into Neovim](https://elijahmanor.com/blog/neovim-tailwindcss)
+- [Quickly Populate a New JavaScript Array](https://elijahmanor.com/byte/js-fill-array)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=elijahmanor&label=Profile%20views&color=0e75b6&style=flat" alt="elijahmanor" /></p>

@@ -17,7 +17,7 @@ let output = `
       ${chalk.yellow.bold('╚═╝┴─┘┴└┘┴ ┴┴ ┴  ╩ ╩┴ ┴┘└┘└─┘┴└─')}
 
 ∙ Christian and Family Man
-∙ Senior Front-End Dev at @planview @leankit
+∙ Senior Software Engineer at @planview @leankit
 ∙ Makes videos at @eggheadio @pluralsight
 
   https://${chalk.blue("twitter")}.com/${chalk.yellow("elijahmanor")}

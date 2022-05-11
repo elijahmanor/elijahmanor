@@ -1,8 +1,20 @@
 <h1 align="center">Hi 👋, I'm Elijah Manor</h1>
 
-<h3 class="prose dark:prose-dark mb-8 max-w-max">I'm a ✝️ Christian and a  👪 family man. I'm a 👨&zwj;💻 Senior Front-End Web Developer primarily focusing on the ⚛️ <a href="https://reactjs.org/">React</a> ecosystem. I currently work at <a href="https://twitter.com/Planview">@Planview</a> on the <a href="https://twitter.com/LeanKit">@LeanKit</a> product. I'm a <a href="https://mvp.microsoft.com/en-us/PublicProfile/4025706?fullName=Elijah%20Manor">Microsoft MVP</a> and create <a href="https://egghead.io/instructors/elijah-manor?af=2rdckc">bite-sized 📹 video tutorials</a> at <a href="https://twitter.com/eggheadio">@Eggheadio</a>. I also enjoy blogging at <a href="https://elijahmanor.com">elijahmanor.com</a> and sharing about things I learn on Twitter (<a href="https://twitter.com/elijahmanor">@elijahmanor</a>).</h3>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/elijahmanor/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/manorisms">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://twitter.com/elijahmanor">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
-# Blog posts
+<h3 class="prose dark:prose-dark mb-8 max-w-max">I'm a ✝️ Christian and a  👪 family man. I'm a 👨&zwj;💻 Senior Software Engineer primarily focusing on Front-End Web using the ⚛️ <a href="https://reactjs.org/">React</a> ecosystem. I currently work at <a href="https://twitter.com/Planview">@Planview</a> on the <a href="https://twitter.com/LeanKit">@LeanKit</a> product. I'm a <a href="https://mvp.microsoft.com/en-us/PublicProfile/4025706?fullName=Elijah%20Manor">Microsoft MVP</a> and create <a href="https://egghead.io/instructors/elijah-manor?af=2rdckc">bite-sized 📹 video tutorials</a> at <a href="https://twitter.com/eggheadio">@Eggheadio</a>. I also enjoy blogging at <a href="https://elijahmanor.com">elijahmanor.com</a> and sharing about things I learn on Twitter (<a href="https://twitter.com/elijahmanor">@elijahmanor</a>).</h3>
+
+## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Locale Aware Sorting in JavaScript](https://elijahmanor.com/byte/js-locale-sort)
 - [Time Tracking with Watson and Tmux](https://elijahmanor.com/blog/watson-tmux)

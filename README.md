@@ -46,11 +46,11 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Get a Better Git Diff](https://elijahmanor.com/blog/better-git-diff)
 - [CLI: Git Checkout Recent Branch with Search &amp; Preview](https://elijahmanor.com/blog/git-checkout-recent-branch)
 - [GitHub CLI to Search and Preview Pull Requests then Check Out](https://elijahmanor.com/blog/gh-pr-fzf-preview)
 - [Hacking with fd, fzf, tmux, and neovim!](https://elijahmanor.com/blog/fd-fzf-tmux-nvim)
 - [Locale Aware Sorting in JavaScript](https://elijahmanor.com/byte/js-locale-sort)
-- [Time Tracking with Watson and Tmux](https://elijahmanor.com/blog/watson-tmux)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=elijahmanor&label=Profile%20views&color=0e75b6&style=flat" alt="elijahmanor" /></p>

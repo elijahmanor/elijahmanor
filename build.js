@@ -17,11 +17,15 @@ let output = `
       ${chalk.yellow.bold('╚═╝┴─┘┴└┘┴ ┴┴ ┴  ╩ ╩┴ ┴┘└┘└─┘┴└─')}
 
 ∙ Christian and Family Man
-∙ Senior Software Engineer at @planview @leankit
-∙ Makes videos at @eggheadio @pluralsight
+∙ Senior Software Engineer at Planview
+∙ Specializes in Front-End Web Dev
+∙ Makes Byte-sized Videos on YouTube
+∙ Neovim User & Terminal Enthusiast
 
-  https://${chalk.blue("twitter")}.com/${chalk.yellow("elijahmanor")}
               https://${chalk.yellow("elijahmanor")}.com
+  https://${chalk.blue("twitter")}.com/${chalk.yellow("elijahmanor")}
+                     @${chalk.yellow("elijahmanor")}@${chalk.blue("mastodon.social")}
+  https://${chalk.blue("youtube")}.com/${chalk.yellow("elijahmanor")}
    https://${chalk.blue("github")}.com/${chalk.yellow("elijahmanor")} 
  https://${chalk.blue("linkedin")}.com/${chalk.yellow("elijahmanor")}
                       ${chalk.yellow("elijahmanor")}@${chalk.blue("gmail")}.com

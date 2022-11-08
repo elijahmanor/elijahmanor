@@ -5,13 +5,13 @@
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
-  "main": "index.js",
+  "main": "./index.js",
   "bin": {
     "elijahmanor": "./index.js"
   },
   "files": [
-    "index.js",
-    "bin/output"
+    "./index.js",
+    "./bin/output"
   ],
   "scripts": {
     "postinstall": "node ./index.js",

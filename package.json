@@ -10,11 +10,11 @@
     "elijahmanor": "./index.js"
   },
   "files": [
+    "index.js",
     "bin/output"
   ],
   "scripts": {
     "postinstall": "node ./index.js",
-    "prepublish": "node ./index.js",
     "build": "node ./build.js"
   },
   "repository": {

@@ -24,7 +24,7 @@ let output = `
 
               https://${chalk.yellow("elijahmanor")}.com
   https://${chalk.blue("twitter")}.com/${chalk.yellow("elijahmanor")}
-                     @${chalk.yellow("elijahmanor")}@${chalk.blue("mastodon.social")}
+                     @${chalk.yellow("elijahmanor")}@${chalk.blue("hachyderm.io")}
   https://${chalk.blue("youtube")}.com/${chalk.yellow("elijahmanor")}
    https://${chalk.blue("github")}.com/${chalk.yellow("elijahmanor")} 
  https://${chalk.blue("linkedin")}.com/${chalk.yellow("elijahmanor")}

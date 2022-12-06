@@ -1,7 +1,7 @@
 {
   "name": "elijahmanor",
   "version": "1.11.0",
-  "description": "Contact Information about Elijah Manor",
+  "description": "Business Card for Elijah Manor",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },

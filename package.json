@@ -15,7 +15,8 @@
   ],
   "scripts": {
     "postinstall": "node ./index.js",
-    "build": "node ./build.js"
+    "build": "node ./build.js",
+    "publish": "npx np --no-tests"
   },
   "repository": {
     "type": "git",

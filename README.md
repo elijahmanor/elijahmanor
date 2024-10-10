@@ -46,11 +46,11 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [CHECK Pull Request Review Comments](https://elijahmanor.com/blog/check-pull-request-review-comments)
 - [GitHub Copilot CLI: AI for the Command-Line](https://elijahmanor.com/blog/github-copilot-cli)
 - [Use npm query and jq to dig into your dependencies](https://elijahmanor.com/blog/npm-query-jq)
 - [2-minute Tmux Tour](https://elijahmanor.com/blog/2-min-tmux-tour)
 - [Access Disk Usage from the Terminal](https://elijahmanor.com/blog/disk-usage-cli)
-- [Get a Better Git Diff](https://elijahmanor.com/blog/better-git-diff)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=elijahmanor&label=Profile%20views&color=0e75b6&style=flat" alt="elijahmanor" /></p>
